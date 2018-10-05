@@ -25,7 +25,7 @@ Players are presented the question in large font on the screen, it shrinks to th
 ### The Answer Phase
 Players are presented a box to input an answer into, if able to be implemented the app will compare like answersand combine them into single categories. After submitting an answer through clicking or tapping on a "Finished" Button The top ten answers are presented with an x and a checkmark next to them, if the player inputted one of the top ten answers, they recieve a number of points equal to however many votes that answer currently has.
 
-###The Voting Phase
+### The Voting Phase
 Players can click the x or check next to each answer rating them, each check counting as though the player had enterred that answer in themselves, and each x counting as though one less player had enterred it. After all ten top answers are voted on, or a player clicks a next question button below the list they progress to the next question.
 
 Once all questions have been answered the player will be greeted with a end screen showing their score, and the top current score, as well as a link to the webpage featuring previous archived questions and answers.
